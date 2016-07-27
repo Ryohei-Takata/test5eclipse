@@ -1,5 +1,5 @@
 package jp.sc;
 
 public class Hello2 {
-	// MSG
+	// MSG2XX
 }
